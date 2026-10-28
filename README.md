@@ -63,4 +63,4 @@ Do not use mock screenshots as evidence. See the EWB workbook screenshot instruc
 Use the workbook's sample strings for testing. Do not open suspicious links to test them, collect credentials, send phishing messages, or test websites without written permission. Never commit passwords, API keys, or private data to GitHub.
 
 ## Author
-[Write your name, batch/course, and EWB Courses details here.]
+[Ayush Yadav, Cyber Security student]
